@@ -42,7 +42,7 @@ Standard banner outside device details. An unavailable ad does not block ordinar
 
 ## Download and updates | دریافت و به‌روزرسانی
 
-Android APK, version **1.0.2**. Package: `com.sinatools.trackerscanner`.
+Android APK, version **1.0.3**. Package: `com.sinatools.trackerscanner`.
 For updates, install over the existing app to preserve its local data. Do not uninstall first.
 
 برای حفظ اطلاعات، نسخه جدید را روی نسخه قبلی نصب کنید؛ ابتدا برنامه را حذف نکنید.
