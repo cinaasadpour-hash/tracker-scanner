@@ -50,3 +50,26 @@ For updates, install over the existing app to preserve its local data. Do not un
 [Privacy / حریم خصوصی](PRIVACY.md)
 
 This repository distributes the signed app and user guide. Private signing keys and local build credentials are not published.
+
+<!-- STORE-GALLERY -->
+
+## Screenshots | تصاویر برنامه
+
+App screens in English and Persian; sample content is used where needed.
+
+### English
+
+<img src="screenshots/en/01-scanner.png" width="240" alt="Tracker Scanner en 01-scanner" />
+<img src="screenshots/en/03-trackers.png" width="240" alt="Tracker Scanner en 03-trackers" />
+<img src="screenshots/en/04-signal.png" width="240" alt="Tracker Scanner en 04-signal" />
+<img src="screenshots/en/05-history.png" width="240" alt="Tracker Scanner en 05-history" />
+<img src="screenshots/en/07-settings.png" width="240" alt="Tracker Scanner en 07-settings" />
+
+### فارسی
+
+<img src="screenshots/fa/01-scanner.png" width="240" alt="Tracker Scanner fa 01-scanner" />
+<img src="screenshots/fa/03-trackers.png" width="240" alt="Tracker Scanner fa 03-trackers" />
+<img src="screenshots/fa/04-signal.png" width="240" alt="Tracker Scanner fa 04-signal" />
+<img src="screenshots/fa/05-history.png" width="240" alt="Tracker Scanner fa 05-history" />
+<img src="screenshots/fa/07-settings.png" width="240" alt="Tracker Scanner fa 07-settings" />
+
